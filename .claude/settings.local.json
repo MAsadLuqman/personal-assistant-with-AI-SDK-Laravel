@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run build:*)",
+      "Bash(del \"c:\\\\laragon\\\\www\\\\aisdk\\\\resources\\\\views\\\\assistant.blade.php\")",
+      "Bash(more +/-)"
+    ]
+  }
+}
